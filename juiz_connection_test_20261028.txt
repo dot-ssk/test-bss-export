@@ -1,0 +1,4 @@
+JUIZ GitHub接続試験
+状態: CREATE_PASS候補
+対象: 独立検証用ファイル
+既存BSS資産: 無変更
